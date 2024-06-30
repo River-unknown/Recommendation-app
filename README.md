@@ -48,7 +48,7 @@ Watch the video below to see the Recommendation App in action: https://www.youtu
 
 ### Dark and Light Theme Demo
 
-See how the app adapts its color theme according to the selected theme (dark or light):https://www.youtube.com/embed/OsX2JHD2oxs
+See how the app adapts its color theme according to the selected theme (dark or light): https://www.youtube.com/embed/OsX2JHD2oxs
 
 ## Contributing
 

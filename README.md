@@ -45,13 +45,13 @@ Once the app is installed, simply open it and allow the necessary permissions. T
 
 Watch the video below to see the Recommendation App in action:
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/VOmeXbnfuxM?feature=share" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VOmeXbnfuxM" frameborder="0" allowfullscreen></iframe>
 
 ### Dark and Light Theme Demo
 
 See how the app adapts its color theme according to the selected theme (dark or light):
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/OsX2JHD2oxs?feature=share" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=OsX2JHD2oxs" frameborder="0" allowfullscreen></iframe>
 
 ## Contributing
 
